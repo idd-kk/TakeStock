@@ -1,9 +1,7 @@
-# TakeStock 
+# TakeStock (AR Prototype)
 
 ### Don't see it? Don't buy it.
-An AR app that prototypes the next step in real life visual search filtering.
-
-Because reading every ingredient on every box or trying to see through green washing while picking out a tea is a real pain.
+Because reading every ingredient on every box is a real pain.
  
 Video demo of TakeStock iOS app prototype. 
 https://youtu.be/_j8ZBiCQLW8
